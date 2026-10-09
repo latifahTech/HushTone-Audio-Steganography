@@ -50,10 +50,16 @@
 This section displays the system interface, audio comparisons, and extracted image results:
 
 ### 1. Audio Samples Preview (Before & After Embedding)
-* **Note:** The audio clips contain encoded Morse code patterns and have a strong audio level; please lower your device's volume if you have sound sensitivities before playing.
 
-* **Original Audio:** [Download / Listen to original_audio_sample.wav](test_assets/audio/original_audio_sample.mp3)
-* **Stego Audio:** [Download / Listen to stego_audio_output.wav](test_assets/audio/stego_audio_output.wav)
+* **Note:** The audio clips have a strong audio level; please lower your device's volume if you have sound sensitivities before playing. Listen directly to compare transparency:
+
+* **Example A: Morse Code Signals**
+  * **Original Audio:** [Download / Listen to original_audio_sample_sm1.mp3](test_assets/audio/original_audio_sample_sm1.mp3)
+  * **Stego Audio:** [Download / Listen to stego_audio_output_sm1.wav](test_assets/audio/stego_audio_output_sm1.wav)
+
+* **Example B: Human Speech (Voice Sample)**
+  * **Original Audio:** [Download / Listen to original_audio_sample_sm2.wav](test_assets/audio/original_audio_sample_sm2.wav)
+  * **Stego Audio:** [Download / Listen to stego_audio_output_sm2.wav](test_assets/audio/stego_audio_output_sm2.wav)
 ---
 
 ### 2. Encrypted Image:
